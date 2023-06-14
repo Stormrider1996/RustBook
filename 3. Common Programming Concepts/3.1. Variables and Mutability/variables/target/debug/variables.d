@@ -1,0 +1,1 @@
+/Users/fjumic/Desktop/RustBook/3.\ Common\ Programming\ Concepts/3.1.\ Variables\ and\ Mutability/variables/target/debug/variables: /Users/fjumic/Desktop/RustBook/3.\ Common\ Programming\ Concepts/3.1.\ Variables\ and\ Mutability/variables/src/main.rs

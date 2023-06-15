@@ -1,0 +1,1 @@
+/Users/fjumic/Desktop/RustBook/3.\ Common\ Programming\ Concepts/3.3.\ Functions/functions/target/debug/functions: /Users/fjumic/Desktop/RustBook/3.\ Common\ Programming\ Concepts/3.3.\ Functions/functions/src/main.rs

@@ -1,0 +1,1 @@
+/Users/fjumic/Desktop/RustBook/3.\ Common\ Programming\ Concepts/PRACTICE/3.\ Christmas\ carol/christmas_carol/target/debug/christmas_carol: /Users/fjumic/Desktop/RustBook/3.\ Common\ Programming\ Concepts/PRACTICE/3.\ Christmas\ carol/christmas_carol/src/main.rs

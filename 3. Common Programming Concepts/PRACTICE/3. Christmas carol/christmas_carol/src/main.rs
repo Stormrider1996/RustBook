@@ -1,4 +1,9 @@
 fn main() {
+    let days = [
+        "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth",
+        "tenth", "eleventh", "twelfth",
+    ];
+
     let gifts = [
         "a partridge in a pear tree",
         "two turtle doves",
@@ -12,11 +17,6 @@ fn main() {
         "ten lords a-leaping",
         "eleven pipers piping",
         "twelve drummers drumming",
-    ];
-
-    let days = [
-        "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth",
-        "tenth", "eleventh", "twelfth",
     ];
 
     for day in 0..12 {

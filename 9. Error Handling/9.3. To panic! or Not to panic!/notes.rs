@@ -1,0 +1,1 @@
+https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html -> go here if you need information on when to panic

@@ -1,0 +1,1 @@
+/Users/fjumic/Desktop/RustBook/8.\ Common\ Collections/PRACTICE/2.\ \ Pig\ Lating/pig_latin/target/debug/pig_latin: /Users/fjumic/Desktop/RustBook/8.\ Common\ Collections/PRACTICE/2.\ \ Pig\ Lating/pig_latin/src/main.rs

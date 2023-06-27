@@ -1,0 +1,1 @@
+/Users/fjumic/Desktop/RustBook/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.2.\ An\ Example\ Program\ Using\ Structs/rectangle_calculation/target/debug/rectangle_calculation: /Users/fjumic/Desktop/RustBook/5.\ Using\ Structs\ to\ Structure\ Related\ Data/5.2.\ An\ Example\ Program\ Using\ Structs/rectangle_calculation/src/main.rs

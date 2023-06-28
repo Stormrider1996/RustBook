@@ -1,0 +1,1 @@
+/Users/fjumic/Desktop/RustBook/12.\ An\ I\ O\ Project\ Building\ a\ Command\ Line\ Program/minigrep/target/debug/minigrep: /Users/fjumic/Desktop/RustBook/12.\ An\ I\ O\ Project\ Building\ a\ Command\ Line\ Program/minigrep/src/lib.rs /Users/fjumic/Desktop/RustBook/12.\ An\ I\ O\ Project\ Building\ a\ Command\ Line\ Program/minigrep/src/main.rs

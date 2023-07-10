@@ -65,7 +65,7 @@ fn returns_summarizable() -> impl Summary {
     }
 }
 
-// you can only use impl Trait if you’re returning a single type
+// you can only use impl Trait if you’re returning a single type, compile error need to use trait objects
 fn returns_summarizable(switch: bool) -> impl Summary {
     if switch {
         NewsArticle {
